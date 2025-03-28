@@ -14,13 +14,13 @@ To install EncryptMe globally and make it executable using `encryptme` in the CL
 
 
 # Clone the repository
-    git clone https://github.com/yourusername/encryptme.git
+    git clone https://github.com/Aizay1/encryptme
     cd encryptme
 
 # Install the package
     pip install .
 
-    Usag
+  #  Usag
 
 ### Encrypt a text
     encryptme -e "YourSecretText"
