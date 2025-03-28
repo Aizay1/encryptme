@@ -16,6 +16,18 @@ To install EncryptMe globally and make it executable using `encryptme` in the CL
 # Clone the repository
     git clone https://github.com/Aizay1/encryptme
     cd encryptme
+# Create a virtual environment
+
+python3 -m venv venv
+
+## Activate the virtual environment
+# On Linux/Mac:
+
+source venv/bin/activate
+
+# On Windows (Command Prompt):
+
+venv\Scripts\activate
 
 # Install the package
     pip install .
