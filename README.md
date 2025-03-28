@@ -20,7 +20,7 @@ To install EncryptMe globally and make it executable using `encryptme` in the CL
 # Install the package
     pip install .
 
-    Usag
+#    Usag
 
 ### Encrypt a text
     encryptme -e "YourSecretText"
